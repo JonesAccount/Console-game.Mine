@@ -1,0 +1,1 @@
+info_player = {"name": None, "ID": None}
